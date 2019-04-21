@@ -37,6 +37,8 @@ The filled bucket item is returned to the player that uses an empty bucket point
 When punching with an empty bucket pointing to an entity or a non-liquid node, the on_punch of the entity or node will be triggered.
 
 
+testing
+
 Beds API
 --------
 
@@ -74,6 +76,8 @@ Beds API
 
 Bones API
 ---------
+
+edit
 
 An ordered list of listnames (default: "main", "craft") of the player inventory,
 that will be placed into bones or dropped on player death can be looked up or changed
